@@ -1,0 +1,4 @@
+name: ReviveTechnicalTest
+version: '${project.version}'
+main: fr.revivemc.Main
+author: ReviveMC
